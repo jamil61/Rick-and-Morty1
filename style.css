@@ -1,0 +1,35 @@
+@media screen and (max-width: 576px) {
+    main {
+        font-family: Raleway;
+        font-size: 1.2em;
+    }
+
+    li {
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    body {
+        background-color: blue;
+        color: #fff;
+        font-family: Modak;
+
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    body {
+        background-color: #000;
+        color: #fff;
+        font-family: ZCOOL XiaoWei;
+        text-align: justify;
+
+
+    }
+
+    span{
+       font-weight: bold;
+    }
+
+}
